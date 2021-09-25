@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Sonnensystem:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Sonnensystem_jar</output-path>
+    <root id="archive" name="Sonnensystem.jar">
+      <element id="module-output" name="Sonnensystem" />
+      <element id="extracted-dir" path="C:/Program Files/Java/javafx-sdk-11.0.2/lib/javafx.base.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files/Java/javafx-sdk-11.0.2/lib/javafx.fxml.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files/Java/javafx-sdk-11.0.2/lib/javafx.media.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files/Java/javafx-sdk-11.0.2/lib/javafx.controls.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files/Java/javafx-sdk-11.0.2/lib/javafx.graphics.jar" path-in-jar="/" />
+      <element id="dir-copy" path="C:/Program Files/Java/javafx-sdk-11.0.2/bin" />
+      <element id="dir-copy" path="C:/Program Files/Java/jdk-14.0.1/bin" />
+      <element id="module-source" name="Sonnensystem" />
+    </root>
+  </artifact>
+</component>
